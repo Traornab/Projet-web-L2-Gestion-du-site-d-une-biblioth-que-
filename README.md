@@ -4,11 +4,9 @@
 Cette application web permet de gérer une bibliothèque en ligne. Elle offre une interface intuitive pour les utilisateurs, qu'ils soient administrateurs ou membres premium. Les fonctionnalités incluent une page d'accueil, une connexion sécurisée, et des options pour gérer les livres et les utilisateurs.
 
 ## Table des Matières
+- [Fonctionnalités](#fonctionnalités)
 - [Installation](#installation)
 - [Utilisation](#utilisation)
-- [Fonctionnalités](#fonctionnalités)
-- [Contributions](#contributions)
-- [Licence](#licence)
 
 ## Fonctionnalités
 Page d'accueil :
