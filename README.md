@@ -10,16 +10,7 @@ Cette application web permet de gérer une bibliothèque en ligne. Elle offre un
 - [Contributions](#contributions)
 - [Licence](#licence)
 
-
-
-## Installation
-Pour installer ce projet, clonez le dépôt et installez les dépendances nécessaires :
-```bash
-git clone https://github.com/Traornab/Projet-web-L2
-cd votre-repo
-npm install
-
-##fonctionnalités
+## Fonctionnalités
 Page d'accueil :
 
 Présentation de la bibliothèque et des services offerts, avec des liens vers les différentes sections de l'application.
@@ -48,4 +39,13 @@ Renouveler une réservation avant la date d'échéance.
 Retourner un livre réservé.
 Différences entre utilisateurs :
 Les membres premium peuvent garder des livres plus longtemps que les utilisateurs standards, offrant ainsi plus de flexibilité.
+
+
+## Installation
+Pour installer ce projet, clonez le dépôt et installez les dépendances nécessaires :
+```bash
+git clone https://github.com/Traornab/Projet-web-L2
+cd votre-repo
+npm install
+
 
