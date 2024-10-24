@@ -5,7 +5,6 @@ Cette application web permet de gérer une bibliothèque en ligne. Elle offre un
 
 ## Table des Matières
 - [Fonctionnalités](#fonctionnalités)
-- [Installation](#installation)
 - [Utilisation](#utilisation)
 
 ## Fonctionnalités
@@ -39,11 +38,6 @@ Différences entre utilisateurs :
 Les membres premium peuvent garder des livres plus longtemps que les utilisateurs standards, offrant ainsi plus de flexibilité.
 
 
-## Installation
-Pour installer ce projet, clonez le dépôt et installez les dépendances nécessaires :
-```bash
-git clone https://github.com/Traornab/Projet-web-L2
-cd votre-repo
-npm install
+
 
 
